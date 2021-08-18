@@ -11,17 +11,16 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Test A
 - [ ] Test B
 
-# O que é esse PR?
-
-Please tell us what this PR is about
+# What is this PR about ?
 
 - [ ] New Feature
 - [ ] Fix Bug
 - [ ] Refactor
+- [ ] New Release
 
 # Reviews
 
-Please identify two developers to review this change
+Please, identify a developer to review this change.
 
-- [ ] @personA
-- [ ] @personB
+- [ ] @peopleA
+- [ ] @peopleB
